@@ -8,4 +8,6 @@ Send/Receive information on I2C protocol using general purpose pins only
 
 - paste `idf.py monitor` output to `plotter.py` to see the chart (kind of osciloscope)
 
-![plot](./images/circuit1.png)
+- circuit:
+![c1](./images/circuit1.pngi =x25)
+![c2](./images/circuit2.png =x250)
